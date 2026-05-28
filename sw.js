@@ -1,6 +1,6 @@
 // UwU service worker —— 缓存 App 外壳，让 PWA 在酒馆没运行/断网时也能打开。
 // 作用域 = 本文件所在目录 /scripts/extensions/third-party/uwu/，只接管 UwU 自己的文件，不影响酒馆。
-const CACHE = 'uwu-shell-v1';
+const CACHE = 'uwu-shell-v2';
 const SCOPE_PREFIX = '/scripts/extensions/third-party/uwu/';
 
 self.addEventListener('install', () => {
