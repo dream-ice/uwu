@@ -1,0 +1,18 @@
+# macOS 垃圾文件
+.DS_Store
+**/.DS_Store
+
+# 私钥 / 证书 / 密钥（绝对不能上传）
+*.pem
+*-key.pem
+*.key
+*.env
+.env*
+
+# 备份 / 临时
+*.bak
+*.tmp
+*~
+
+# 依赖
+node_modules/
