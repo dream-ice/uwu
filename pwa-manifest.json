@@ -1,8 +1,9 @@
 {
+  "id": "/scripts/extensions/third-party/uwu/",
   "name": "UwU",
   "short_name": "UwU",
-  "start_url": ".",
-  "scope": ".",
+  "start_url": "/scripts/extensions/third-party/uwu/index.html",
+  "scope": "/scripts/extensions/third-party/uwu/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#ffffff",
